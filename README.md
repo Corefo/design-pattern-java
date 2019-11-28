@@ -1,5 +1,7 @@
 # 设计模式
 
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%BA%8C%E8%90%A5%E9%95%BF%E7%9A%84%E7%AC%94%E8%AE%B0-brightgreen" alt="公众号"></a>
+
 设计模式——让代码变得优雅。
 
 # 常用设计模式
